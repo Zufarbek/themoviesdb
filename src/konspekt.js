@@ -12,3 +12,11 @@
 
 
 
+// BRANCH
+// 1. git branch => brnachlar ro'yxatini ko'rsatadi
+// 2. git branch branch_name => branch_name deb nomlangan yangi branch ochish
+// 3. git checkout branch_name => branch_name nomlangan branchga o'tib ketadi (swiched)
+
+
+
+
