@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/2022-08-02 10-20-55.mp4
 .pnp.js
 
 # testing
